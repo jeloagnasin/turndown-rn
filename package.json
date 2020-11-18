@@ -3,9 +3,7 @@
   "description": "A library that converts HTML to Markdown",
   "version": "7.0.1",
   "author": "Dom Christie",
-  "main": "lib/turndown.cjs.js",
-  "module": "lib/turndown.es.js",
-  "jsnext:main": "lib/turndown.es.js",
+  "main": "src/turndown.js",
   "browser": {
     "jsdom": false
   },
